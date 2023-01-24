@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "glassmorphisomanim": "fade-down-right",
+    "glassmorphisomduration": "1000",
+    "classname": "lefttop",
+    "price": "100"
+  },
+  {
+    "id": 2,
+    "glassmorphisomanim": "fade-down-left",
+    "glassmorphisomduration": "1000",
+    "classname": "righttop",
+    "price": "100"
+  },
+  {
+    "id": 3,
+    "glassmorphisomanim": "fade-up-right",
+    "glassmorphisomduration": "1000",
+    "classname": "leftbottom",
+    "price": "100"
+  },
+  {
+    "id": 4,
+    "glassmorphisomanim": "fade-up-left",
+    "glassmorphisomduration": "1000",
+    "classname": "rightbottom",
+    "price": "100"
+  },
+  {
+    "id": 5,
+    "glassmorphisomanim": "",
+    "glassmorphisomduration": "1000",
+    "classname": " ",
+    "price": "100"
+  }
+]
