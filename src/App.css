@@ -8,7 +8,7 @@
 }
 
 .bgimg{
-  background-image: url('https://images.pexels.com/photos/8369837/pexels-photo-8369837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-image: url('https://images.pexels.com/photos/7080470/pexels-photo-7080470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
   background-repeat: no-repeat;
   background-size: cover;
     background-position: center;
@@ -37,7 +37,7 @@
 .cardorange {
         backdrop-filter: blur(18px) saturate(180%);
     -webkit-backdrop-filter: blur(18px) saturate(180%);
-    background-color: rgba(252, 82, 1, 0.43);
+    background-color: rgba(252, 143, 1, 0.43);
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, 0.125);
 }
